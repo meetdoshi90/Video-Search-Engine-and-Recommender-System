@@ -1,0 +1,19 @@
+{
+  "name": "youtube-recommender-system",
+  "version": "1.0.0",
+  "description": "A youtube recommender system created in python",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meetdoshi90/Tech-Mahindra.git"
+  },
+  "author": "Meet Doshi, Ajay Bhan, Vishant Mehta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meetdoshi90/Tech-Mahindra/issues"
+  },
+  "homepage": "https://github.com/meetdoshi90/Tech-Mahindra#readme"
+}
